@@ -21,7 +21,12 @@ COR 1 is the basic resource in COR. The register is based on
 and contains information on word classes, inflections and lexemes for all
 lemmas in the dictionary.
 
-The supplemental file `bix2bform_UTF8_01.tsv` contains morphological data
+Versions of COR 1 that preceded COR 1.5.0.0 are now known as COR.RO4 and
+correspond to the 4th edition of Retskrivningsordbogen. The current version
+corresponds to the 5th edition, and the version number now reflects which
+edition is used.
+
+The supplemental file `bix2bform_cor1.5.0.0_ISO.tsv` contains morphological data
 about COR 1.x.
 
 ## COR.EXT
